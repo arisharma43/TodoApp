@@ -1,6 +1,6 @@
 # React App + Firebase
 
-My first app with CRUD functionality for making Todo lists using react and firebase!
+My CS interest so far haven't been too much into app development or web development in general but React and Firebase piqued my interest. My first app with CRUD functionality for making Todo lists using React and Firebase!
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
