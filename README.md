@@ -1,6 +1,6 @@
 # React App + Firebase
 
-An app with CRUD functionality for making Todo lists!
+My first app with CRUD functionality for making Todo lists using react and firebase!
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
